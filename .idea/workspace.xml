@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eac4176c-57c9-4241-9a24-47b5869daab5" name="Default" comment="" />
+    <list default="true" id="eac4176c-57c9-4241-9a24-47b5869daab5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pl/pages/MyNotePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pl/pages/MyNotePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pl/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pl/tests/LoginTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +28,8 @@
       <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/pl/tests/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" selection-start-line="17" selection-end-line="18" />
+            <state relative-caret-position="451">
+              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddNoteTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddNoteTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/pl/tests/AddNoteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="195">
+              <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,17 +103,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyNotePage.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MyNotePage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/pages/MyNotePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="337">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#145#146#0" expanded="true" />
                 <element signature="e#174#175#0" expanded="true" />
                 <element signature="e#394#395#0" expanded="true" />
                 <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,20 +156,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/pl/data/Constant.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pl/com/pl/utils/RandomUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pl/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pl/pages/MyNotePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pl/pages/AddNotePage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/pl/pages/BasePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pl/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/pl/tests/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/pl/tests/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/pl/tests/AddNoteTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pl/tests/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pl/pages/MyNotePage.java" />
       </list>
     </option>
   </component>
@@ -180,6 +188,7 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -421,6 +430,12 @@
     <history-entry file="LoginTest_loginSuccessfully - 2019.04.17 at 20h 50m 31s.xml">
       <configuration name="LoginTest.loginSuccessfully" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LoginTest_loginSuccessfully - 2019.04.17 at 20h 51m 09s.xml">
+      <configuration name="LoginTest.loginSuccessfully" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddNoteTest_addNoteSuccessfully - 2019.04.17 at 20h 51m 30s.xml">
+      <configuration name="AddNoteTest.addNoteSuccessfully" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -435,7 +450,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -499,20 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/pages/MyNotePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/pages/AddNotePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -556,6 +557,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pl/tests/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/pl/tests/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -566,22 +577,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pl/tests/LoginTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pl/tests/AddNoteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="18" />
+        <state relative-caret-position="195">
+          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/pl/tests/AddNoteTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pl/pages/MyNotePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="337">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
           </folding>
         </state>
       </provider>
